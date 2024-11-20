@@ -1,0 +1,15 @@
+section div{
+    width: 740px;
+}
+section div h2{
+    background-image: url(../img/body.gif) ;
+    background-position: right;
+    background-repeat: no-repeat;
+    color: #00aa00;
+    text-align: center;
+}
+section div p{
+    text-indent: 2em;
+    line-height: 1.5em;
+}
+

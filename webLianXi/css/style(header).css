@@ -1,0 +1,7 @@
+header {
+    background:url(../img/header.jpg) no-repeat center;
+}
+header h1 {
+    padding-top: 40px;
+    color: #00aa00;
+}

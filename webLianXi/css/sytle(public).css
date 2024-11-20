@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li,a,a:hover{
+    text-decoration: none;
+    list-style: none;
+}
+.public{
+    width: 1000px;
+    margin: 0 auto;
+}
+header{
+    height: 250px;
+}
+aside{
+    padding-top: 10px;
+    width: 240px;
+    float: left;
+}
+section{
+    width: 740px;
+    float: right;
+}
+footer{
+    clear: both;
+}

@@ -1,0 +1,30 @@
+aside {
+margin-top: 10px;
+}
+aside div {
+    margin-top: 10px; margin-bottom: 25px;
+ border: 1px solid #00aa00;
+ border-radius: 10px;
+}
+aside div h2 {
+ color: #00aa00;
+ text-align: center;
+}
+aside div ul li{
+height: 45px;
+line-height: 45px;
+text-align: center;
+border-bottom: 2px dashed #00aa00;
+}
+aside div ul li a{
+ color: black;
+ display: block;
+
+}
+.botline{
+    border-bottom: none;
+}
+aside div ul li a:hover{
+    background-image: url(../img/nav2.jpg);
+    color: #00aa00;
+}
